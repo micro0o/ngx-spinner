@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 300" style="enable-background:new 0 0 200 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00B09A;}
+	.st1{fill:#BFBFBF;}
+</style>
+<path class="st0" d="M128.05,114.03c-0.99-0.98-0.99-2.58-0.01-3.57c0.48-0.48,1.13-0.75,1.81-0.75h50.18v4.43h-45.56l11.77,11.79
+	l-3.14,3.14L128.05,114.03z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.1" calcMode="linear" dur="5s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+</path>
+<path class="st0" d="M129.85,103.1c-1.03,0-1.95-0.62-2.35-1.57c-0.39-0.94-0.18-2.03,0.55-2.75l15.04-15.06l3.14,3.14l-11.77,11.79
+	h30.93v4.45H129.85z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.1" calcMode="linear" dur="10s" fill="remove" repeatCount="indefinite" restart="always" values="0;0.6;0">
+		</animate>
+</path>
+<path class="st0" d="M108.32,110.13c-2.05-2.05-2.05-5.37,0-7.43l46.04-46.03l3.14,3.14l-46.04,46.02c-0.32,0.32-0.32,0.84,0,1.16
+	l37.1,37.1l-3.14,3.14L108.32,110.13z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0" calcMode="linear" dur="6s" fill="remove" repeatCount="indefinite" restart="always" values="0;0.4;0">
+		</animate>
+</path>
+<path class="st0" d="M92.25,78.22L77.2,63.18l3.14-3.14l11.79,11.79V40.89h4.43v35.55c0,1.02-0.61,1.94-1.55,2.33
+	c-0.31,0.13-0.64,0.2-0.97,0.2c-0.67,0-1.32-0.28-1.79-0.77L92.25,78.22z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.1" calcMode="linear" dur="8s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+</path>
+<path class="st0" d="M104.74,78.77c-0.95-0.39-1.57-1.31-1.57-2.33V26.25h4.45v45.56l11.79-11.79l3.14,3.14l-15.04,15.05
+	c-0.47,0.48-1.12,0.75-1.8,0.75c-0.33,0-0.67-0.07-0.98-0.2L104.74,78.77z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0" calcMode="linear" dur="5s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+</path>
+
+<path class="st0" d="M96.17,97.96L50.13,51.93l3.14-3.14l46.04,46.03c0.31,0.31,0.81,0.31,1.13,0l37.1-37.1l3.14,3.14l-37.1,37.1
+	c-0.99,0.99-2.32,1.54-3.72,1.54c-1.39,0-2.72-0.56-3.7-1.55L96.17,97.96z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0" calcMode="linear" dur="10s" fill="remove" repeatCount="indefinite" restart="always" values="0;0.7;0">
+		</animate>
+</path>
+
+<path class="st0" d="M19.72,103.1v-4.46h45.56L53.49,86.87l3.14-3.14l15.05,15.05c0.99,0.99,0.99,2.59,0,3.57
+	c-0.47,0.47-1.11,0.74-1.78,0.74L19.72,103.1z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.1" calcMode="linear" dur="10s" fill="remove" repeatCount="indefinite" restart="always" values="0;0.6;0">
+		</animate>
+</path>
+
+<path class="st0" d="M53.49,125.94l11.77-11.79H34.33v-4.44H69.9c1.4,0,2.53,1.14,2.52,2.53c0,0.67-0.27,1.31-0.74,1.78
+	l-15.05,15.05L53.49,125.94z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.1" calcMode="linear" dur="6s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+</path>
+
+<path class="st0" d="M42.23,153.01l46.03-46.03c0.31-0.31,0.31-0.81,0-1.13l-37.1-37.1l3.14-3.14l37.1,37.1
+	c2.05,2.05,2.05,5.37,0,7.43l-46.03,46.03L42.23,153.01z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0" calcMode="linear" dur="6s" fill="remove" repeatCount="indefinite" restart="always" values="0;0.4;0">
+		</animate>
+</path>
+
+<path class="st0" d="M100.43,118c-0.15-0.16-0.36-0.25-0.58-0.25s-0.42,0.09-0.56,0.25l-37.1,37.09l-3.14-3.14l37.1-37.09
+	c0.98-0.99,2.31-1.55,3.71-1.54c1.4-0.01,2.74,0.55,3.72,1.54l46.03,46.03l-3.14,3.14L100.43,118z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0" calcMode="linear" dur="5s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+</path>
+
+<path class="st1" d="M104.43,210.58c-0.81-0.61-1.28-1.58-1.25-2.59v-73.31h4.43v70.43l73.16-59.01l2.78,3.46l-75.47,60.9
+	c-1.05,0.85-2.54,0.89-3.63,0.1L104.43,210.58z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.1" calcMode="linear" dur="5s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+</path>
+
+<path class="st1" d="M91.66,210.48l-75.47-60.9l2.78-3.46l73.14,59.01v-70.44h4.45v73.3c0.02,1.01-0.44,1.98-1.25,2.59
+	c-0.52,0.36-1.13,0.56-1.77,0.56C92.86,211.14,92.2,210.91,91.66,210.48L91.66,210.48z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.1" calcMode="linear" dur="8s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+</path>
+
+<path class="st1" d="M79.88,235.95l11.46-11.44l-42.57-34.36l2.78-3.46l44.08,35.57c1.16,0.91,1.36,2.59,0.45,3.75
+	c-0.07,0.09-0.15,0.18-0.23,0.26l-9.67,9.68H79.88L79.88,235.95z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0" calcMode="linear" dur="10s" fill="remove" repeatCount="indefinite" restart="always" values="0;0.7;0">
+		</animate>
+</path>
+
+<path class="st1" d="M113.55,235.95l-9.67-9.68c-1.05-1.06-1.05-2.77,0.01-3.82c0.07-0.07,0.14-0.13,0.21-0.19l44.07-35.57l2.8,3.46
+	l-42.57,34.36l11.44,11.44H113.55L113.55,235.95z">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0" calcMode="linear" dur="5s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+		</animate>
+</path>
+	
+<circle class="st0" cx="80" cy="264.61" r="6">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.1" calcMode="linear" dur="1s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+	</animate>
+</circle>
+<circle class="st0" cx="100" cy="264.61" r="6">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.2" calcMode="linear" dur="1s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+	</animate>
+</circle>
+<circle class="st0" cx="120" cy="264.61" r="6">
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0.3" calcMode="linear" dur="1s" fill="remove" repeatCount="indefinite" restart="always" values="0;1;0">
+	</animate>
+</circle>
+</svg>
